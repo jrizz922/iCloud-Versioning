@@ -70,12 +70,6 @@ icloud-versioning restore ~/Documents/myproject ~/Documents/myproject/document.t
 - Version tracking information is managed by the `VersionManager` class
 - Commands will provide feedback about the operations performed
 
-jrizz922: Write documentation for this file
-
-GitHub Copilot: # iCloud Versioning Core Documentation
-
-This module provides the core functionality for the iCloud Versioning system, handling file tracking and version management.
-
 ## Class: VersionManager
 
 ### Overview
